@@ -1,17 +1,31 @@
-### MI presentacion 👋
+### Julio César Arbieto Chavez 👋
+
+*Profesional TI con experiencia en análisis, diseño, desarrollo e implementación de software e innovaciones tecnológicas utilizando metodologías de desarrollo de *software, modelamiento de procesos de negocio, modelamiento de datos, administración y programación de motores de base de datos en entidades públicas y privadas. *Proactivo, responsable, con gran disposición para el trabajo en equipo, capacitación constante, aprendizaje de nuevas tecnologías y deseos de asumir nuevos retos y *proyectos profesionales.
 
 
-**Julio César Arbieto Chavez** 
+** Perfil : Analista Progrador .Net** 
 
-Here are some ideas to get you started:
+Tecnologias con experiencia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Julio Cesar Arbieto Chavez
+- ASP.NET MVC 5.
+- SOAP.
+- Swagger REST Api Net Core.
+- Micriservicios.
+- Servicios WCF.
+- TDD (Test-driven development).
+- Redis Cache.
+- JWT (Autentificacion - Json Web Token).
+- Rabbit MQ (gestor de colas).
+- Prometheus (Métricas).
+- Grafana (visualización y el formato de datos métricos).
+- Load Balancing (Hashicorp Consul).
+- Ocelot (NET core API Gateway).
+- Docker.
+
+- Oracle 10g & 11g PL/SQL.
+- Microsoft SQL Server.
+- Mysql.
+- PostgreSQL.
+
+- Android.
 
