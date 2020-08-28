@@ -1,11 +1,9 @@
-### Julio César Arbieto Chavez 👋 ###
+## Julio César Arbieto Chavez 👋 ##
 
 * Profesional TI con experiencia en análisis, diseño, desarrollo e implementación de software e innovaciones tecnológicas utilizando metodologías de desarrollo de software, modelamiento de procesos de negocio, modelamiento de datos, administración y programación de motores de base de datos en entidades públicas y privadas. Proactivo, responsable, con gran disposición para el trabajo en equipo, capacitación constante, aprendizaje de nuevas tecnologías y deseos de asumir nuevos retos y proyectos profesionales. *
 
 
-# Analista Progrador .Net #
-
-# Tecnologias con experiencia: #
+### Analista Progrador .Net ###
 
 - ASP.NET MVC 5.
 - SOAP.
