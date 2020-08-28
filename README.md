@@ -4,7 +4,7 @@
 
 Linkedin : https://www.linkedin.com/in/julio-césar-arbieto-chavez-867159155/
 
-### Analista Programador .Net ###
+### .NET SOFTWARE DEVELOPER ###
 
 - ASP.NET MVC 5.
 - Net Core 2.1 y 3.
