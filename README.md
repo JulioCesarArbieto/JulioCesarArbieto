@@ -9,7 +9,7 @@ Linkedin : https://www.linkedin.com/in/julio-césar-arbieto-chavez-867159155/
 - ASP.NET MVC 5.
 - SOAP.
 - Swagger REST Api Net Core.
-- Micriservicios.
+- Microservicios.
 - Servicios WCF.
 - TDD (Test-driven development).
 - Redis Cache.
@@ -20,6 +20,7 @@ Linkedin : https://www.linkedin.com/in/julio-césar-arbieto-chavez-867159155/
 - Load Balancing (Hashicorp Consul).
 - Ocelot (NET core API Gateway).
 - Docker.
+- Azure.
 
 - Oracle 10g & 11g PL/SQL.
 - Microsoft SQL Server.
