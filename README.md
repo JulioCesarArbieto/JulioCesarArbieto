@@ -2,6 +2,7 @@
 
 * Profesional TI con experiencia en análisis, diseño, desarrollo e implementación de software e innovaciones tecnológicas utilizando metodologías de desarrollo de software, modelamiento de procesos de negocio, modelamiento de datos, administración y programación de motores de base de datos en entidades públicas y privadas. Proactivo, responsable, con gran disposición para el trabajo en equipo, capacitación constante, aprendizaje de nuevas tecnologías y deseos de asumir nuevos retos y proyectos profesionales. *
 
+Linkedin : https://www.linkedin.com/in/julio-césar-arbieto-chavez-867159155/
 
 ### Analista Progrador .Net ###
 
