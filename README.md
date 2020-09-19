@@ -9,6 +9,7 @@ Linkedin : https://www.linkedin.com/in/julio-césar-arbieto-chavez-867159155/
 - ASP.NET MVC 5.
 - Net Core 2.1 y 3.
 - SOAP.
+- REST.
 - Microservicios.
 - Servicios WCF.
 - Swagger.
