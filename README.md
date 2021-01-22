@@ -34,10 +34,10 @@ Linkedin : https://www.linkedin.com/in/julio-césar-arbieto-chavez-867159155/
 
 
 ### Arquitecturas Desarrolladas en AWS y Azure (Desarrollo de Aplicaciones Cloud)
+![Aquí la descripción de la imagen por si no carga]
+(https://github.com/JulioCesarArbieto/JulioCesarArbieto/blob/master/ArquitecturaAWS-CameraReview.png)
 
-https://github.com/JulioCesarArbieto/JulioCesarArbieto/blob/master/ArquitecturaAWS-CameraReview.png
+(https://github.com/JulioCesarArbieto/JulioCesarArbieto/blob/master/Untitled%20Diagram-Page-2.png)
 
-https://github.com/JulioCesarArbieto/JulioCesarArbieto/blob/master/Untitled%20Diagram-Page-2.png
-
-https://github.com/JulioCesarArbieto/JulioCesarArbieto/blob/master/Security.png
+(https://github.com/JulioCesarArbieto/JulioCesarArbieto/blob/master/Security.png)
 
