@@ -35,8 +35,8 @@
 - TDD (Test-driven development).
 - Redis Cache.
 - JWT (Autentificacion - Json Web Token).
-- Severless aplicacion.
-- Continer Aplication. 
+- Severless aplication.
+- Continer Aplication (Doker, Kubernetes). 
 
 ### .NET SOFTWARE DEVELOPER ###
 - ASP.NET MVC 5.
@@ -54,8 +54,8 @@
 - Grafana (visualización y el formato de datos métricos).
 - Load Balancing (Hashicorp Consul).
 - Ocelot (NET core API Gateway).
-- Severless aplicacion.
-- Continer Aplication.
+- Severless aplication.
+- Continer Aplication (Doker, Kubernetes). 
 
 
 - Oracle 10g & 11g PL/SQL.
