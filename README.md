@@ -3,6 +3,7 @@
 * Profesional TI con experiencia en análisis, diseño, desarrollo e implementación de software e innovaciones tecnológicas utilizando metodologías de desarrollo de software, modelamiento de procesos de negocio, modelamiento de datos, administración y programación de motores de base de datos en entidades públicas y privadas. Proactivo, responsable, con gran disposición para el trabajo en equipo, capacitación constante, aprendizaje de nuevas tecnologías. *
 
 Linkedin : https://www.linkedin.com/in/julio-césar-arbieto-chavez-867159155/
+AWS Certified Developer – Associate :https://www.credly.com/badges/27b8d5e9-a843-4a9f-96b3-cf0877c0727c/public_url
 
 ### ESPECIALISTA EN SOLUCIONES CLOUD.
 - AWS (Amazon web services).
